@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+nav,ul,li{
+    display: inline;
+}
+li{
+    color: gray;
+}
+.protact
+{
+    text-align: center;
+    margin-top: 18px;
+}
+.box1
+{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    
+}
+
+button
+{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+
+.contact
+{
+    text-align: center;
+    background-color: black;
+    margin-top: 20px;
+    color: white;
+    padding: 30px;
+}
+.footer
+{
+    text-align: center;
+    padding-left: 41%;
+}
+.sendbtn
+{
+    background-color: yellow;
+    width: 30%;
+    color: black;
+}
